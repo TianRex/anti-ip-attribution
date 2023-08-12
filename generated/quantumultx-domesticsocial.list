@@ -2,21 +2,7 @@
 # anti-ip-attribution quantumultx-domesticsocial.list v0.3.0 b38fca55691235e8b59879093163d971ce803e2e
 # https://github.com/lwd-temp/anti-ip-attribution
 # QuantumultX分流规则，策略组名称为DomesticSocial
-DOMAIN-SUFFIX,biliapi.net,DomesticSocial
-DOMAIN,api.bilibili.com,DomesticSocial
-DOMAIN,api.bilibili.tv,DomesticSocial
-DOMAIN,app.bilibili.com,DomesticSocial
-DOMAIN-SUFFIX,biliapi.com,DomesticSocial
-DOMAIN,api.live.bilibili.com,DomesticSocial
-DOMAIN,api.vc.bilibili.com,DomesticSocial
-DOMAIN,passport.bilibili.com,DomesticSocial
-DOMAIN,live-trace.bilibili.com,DomesticSocial
-DOMAIN,message.bilibili.com,DomesticSocial
-DOMAIN,cm.bilibili.com,DomesticSocial
-DOMAIN-SUFFIX,bilibili.com,DomesticSocial
 DOMAIN-SUFFIX,im9.com,DomesticSocial
-DOMAIN-SUFFIX,acg.tv,DomesticSocial
-DOMAIN-SUFFIX,biligame.com,DomesticSocial
 IP-CIDR,203.107.1.0/24,REJECT
 DOMAIN-SUFFIX,weibo.cn,DomesticSocial
 DOMAIN-SUFFIX,weibo.com,DomesticSocial
